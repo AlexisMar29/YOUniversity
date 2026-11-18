@@ -1,1 +1,4 @@
-# YOUniversity
+YOUniversity is a C# Windows Forms application that allows users to browse available courses, build a class schedule, and review their selected courses before registering.
+Each course displays important information, including meeting times, classroom numbers, credit  hours, and instructor names. After selecting courses, users can click "View My Schedule" to review their requested schedule. If a course was selected by mistake, users can remove it by checking the corresponding checkbox.
+The application also calculates and displays the total credit hours for the selected courses. Once users are satisfied with their schedule, they can click the "Register Now" button to complete the registration process.
+Features: Browse available courses, View course details and instructor information, Add and remove courses from a schedule, Calculate total selected credit hours, Review the final schedule before registration.
