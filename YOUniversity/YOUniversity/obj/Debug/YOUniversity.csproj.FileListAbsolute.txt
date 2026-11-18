@@ -1,0 +1,11 @@
+C:\Users\alexi\Downloads\YOUniversity\YOUniversity\bin\Debug\YOUniversity.exe.config
+C:\Users\alexi\Downloads\YOUniversity\YOUniversity\bin\Debug\YOUniversity.exe
+C:\Users\alexi\Downloads\YOUniversity\YOUniversity\bin\Debug\YOUniversity.pdb
+C:\Users\alexi\Downloads\YOUniversity\YOUniversity\obj\Debug\YOUniversity.csproj.AssemblyReference.cache
+C:\Users\alexi\Downloads\YOUniversity\YOUniversity\obj\Debug\YOUniversity.Form1.resources
+C:\Users\alexi\Downloads\YOUniversity\YOUniversity\obj\Debug\YOUniversity.Properties.Resources.resources
+C:\Users\alexi\Downloads\YOUniversity\YOUniversity\obj\Debug\YOUniversity.csproj.GenerateResource.cache
+C:\Users\alexi\Downloads\YOUniversity\YOUniversity\obj\Debug\YOUniversity.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Downloads\YOUniversity\YOUniversity\obj\Debug\YOUniversity.exe
+C:\Users\alexi\Downloads\YOUniversity\YOUniversity\obj\Debug\YOUniversity.pdb
+C:\Users\alexi\Downloads\YOUniversity\YOUniversity\obj\Debug\YOUniversity.FrmSchedule.resources
